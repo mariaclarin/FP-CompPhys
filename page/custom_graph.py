@@ -29,13 +29,16 @@ def custom_graph(app):
     
     def validate_input(input_value, message):
         try:
+            # Try converting the input to an integer
             int_value = int(input_value)
             return int_value
         except ValueError:
             try:
+                # Try converting the input to a float
                 float_value = float(input_value)
                 return float_value
             except ValueError:
+                # Display error message if the input is neither an integer nor a float
                 messagebox.showerror("Error", message)
                 return None
     
