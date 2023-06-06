@@ -11,7 +11,7 @@ Optimochrone is a brachistochrone graph visualizer and simulator that enhances t
  
 ## Documentation
 * Report :
-* Presentation :  
+* [Final Presentation](https://www.canva.com/design/DAFemvlYYsY/VwWLJrrSCAmdz8TaRefxKQ/view?utm_content=DAFemvlYYsY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Menu Pages 
 1. Default Graphing - Simulate the different curves of brachistochrone at once with customizable units.
