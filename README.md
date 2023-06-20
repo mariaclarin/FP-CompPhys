@@ -10,7 +10,7 @@ Optimochrone is a brachistochrone graph visualizer and simulator that enhances t
 ### Class : L4AC - Computational Physics (SCIE6063001)
  
 ## Documentation
-* Report :
+* [Project Report](https://drive.google.com/file/d/1bO2x5NjBAU6UTQalb76blt8tpgwnjM77/view?usp=sharing)
 * [Final Presentation](https://www.canva.com/design/DAFemvlYYsY/VwWLJrrSCAmdz8TaRefxKQ/view?utm_content=DAFemvlYYsY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Menu Pages 
